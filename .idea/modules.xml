@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Forberedning/Forberedning.iml" filepath="$PROJECT_DIR$/Forberedning/Forberedning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek01_Recursion/Lek01_Recursion.iml" filepath="$PROJECT_DIR$/Lek01_Recursion/Lek01_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek02_Rekursiv2/Lek02_Rekursiv2.iml" filepath="$PROJECT_DIR$/Lek02_Rekursiv2/Lek02_Rekursiv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek03_DivideAndConcure/Lek03_DivideAndConcure.iml" filepath="$PROJECT_DIR$/Lek03_DivideAndConcure/Lek03_DivideAndConcure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek04_Tidskompleksitet/Lek04_Tidskompleksitet.iml" filepath="$PROJECT_DIR$/Lek04_Tidskompleksitet/Lek04_Tidskompleksitet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek05_CollectionFramework/Lek05_CollectionFramework.iml" filepath="$PROJECT_DIR$/Lek05_CollectionFramework/Lek05_CollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek06_Lambda/Lek06_Lambda.iml" filepath="$PROJECT_DIR$/Lek06_Lambda/Lek06_Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek07_Test/Lek07_Test.iml" filepath="$PROJECT_DIR$/Lek07_Test/Lek07_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek11_DesignPatterns/Lek11_DesignPatterns.iml" filepath="$PROJECT_DIR$/Lek11_DesignPatterns/Lek11_DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek12_SingletonOgAdapter/Lek12_SingletonOgAdapter.iml" filepath="$PROJECT_DIR$/Lek12_SingletonOgAdapter/Lek12_SingletonOgAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek13_IteratorOgComposite/Lek13_IteratorOgComposite.iml" filepath="$PROJECT_DIR$/Lek13_IteratorOgComposite/Lek13_IteratorOgComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek14_Serializable/Lek14_Serializable.iml" filepath="$PROJECT_DIR$/Lek14_Serializable/Lek14_Serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek21_KaedetStruktur/Lek21_KaedetStruktur.iml" filepath="$PROJECT_DIR$/Lek21_KaedetStruktur/Lek21_KaedetStruktur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek22_Stak/Lek22_Stak.iml" filepath="$PROJECT_DIR$/Lek22_Stak/Lek22_Stak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek23_Queue/Lek23_Queue.iml" filepath="$PROJECT_DIR$/Lek23_Queue/Lek23_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek24_Hashing/Lek24_Hashing.iml" filepath="$PROJECT_DIR$/Lek24_Hashing/Lek24_Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek25_Generics/Lek25_Generics.iml" filepath="$PROJECT_DIR$/Lek25_Generics/Lek25_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek26_HashingOgMap/Lek26_HashingOgMap.iml" filepath="$PROJECT_DIR$/Lek26_HashingOgMap/Lek26_HashingOgMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek27_Trees/Lek27_Trees.iml" filepath="$PROJECT_DIR$/Lek27_Trees/Lek27_Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek28_BinarySearchTrees/Lek28_BinarySearchTrees.iml" filepath="$PROJECT_DIR$/Lek28_BinarySearchTrees/Lek28_BinarySearchTrees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmering 2.iml" filepath="$PROJECT_DIR$/Programmering 2.iml" />
+    </modules>
+  </component>
+</project>
